@@ -1,1 +1,2 @@
-This is a random dumb third file
+This is a random dumb third file.
+Changes to third file.
